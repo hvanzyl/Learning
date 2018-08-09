@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 
-import sys; 
+import sys
 
-x = 'Hello, World!'; 
+x = 'Hello, World!'
 sys.stdout.write(x + '\n')
 
 raw_input("\n\nPress the enter key to exit")
