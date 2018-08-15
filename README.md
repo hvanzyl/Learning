@@ -1,3 +1,3 @@
 # Learning
 for practise
-v.1.2 snapshot
+v.1.2
