@@ -1,3 +1,4 @@
 # Learning
 for practise
-v.1.2
+<<<<<<< HEAD
+v.1.3
