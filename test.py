@@ -6,7 +6,7 @@ x = '\tHello, World!'
 sys.stdout.write(x + '\n')
 
 """
-new commen
+new comment :)
 """
 
 raw_input("\nPress the enter key to exit")
