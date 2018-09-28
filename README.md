@@ -1,4 +1,5 @@
 # Learning
 for practise
 
-v.1.3.1 -snapshot
+v.1.3.1
+
