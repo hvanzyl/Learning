@@ -1,4 +1,4 @@
 # Learning
 for practise
-<<<<<<< HEAD
-v.1.3
+
+v.1.3.1 -snapshot
